@@ -1,0 +1,7 @@
+{
+    "address" : { "owner" : "owner", "description" : "description" },
+    "SUeGCt31AHwTZVcfZQwpPVL4jEUCtMMDTg" : { "owner" : "Dev Fund", "description" : "Main Wallet" },
+    "SRx6PnyiRpG1dM3LUMUSeP8jTp9iQ5bAa8" : { "owner" : "Advisors", "description" : "Main Wallet" },
+	"SVx2j3NdZbDLfZ9HWS57NvqYg4c9grQLnx" : { "owner" : "Bounty", "description" : "Main Wallet" },
+    "SMcu3EQUmTDrASqTAkqg1oEZbMKhFyo2za" : { "owner" : "Stock Fund & Playesr Advisors", "description" : "" }
+}
